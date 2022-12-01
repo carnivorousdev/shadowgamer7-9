@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shadowgamer7-9
+- 👀 I’m interested in JS HTML and CSS
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on on basic web application  projects. you can check them out in my account
+- 📫 my email adress: ali3purple@gmail.com
